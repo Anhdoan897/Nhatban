@@ -253,11 +253,11 @@ https://cdn-hk-33.cloudrsst.com/live/mtv_540/playlist.m3u8
 https://cdn-us-186.cloudrsst.com/live/wowlive_720/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.wowowplus.jp/parts/common/img/logo_sp.png?1130" group-title="NHẬT BẢN", Wowow Plus
 https://cdn-us-186.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BS Nippon" status="online",BS Nippon
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png" group-title="BS Nippon", BS Nippon
 http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
-#EXTINF:-1 tvg-id="BS Asahi" status="online",BS Asahi
+#EXTINF:-1 tvg-id="" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS Asahi", BS Asahi
 http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
-#EXTINF:-1 tvg-id="BS TBS" status="online",BS TBS
+#EXTINF:-1 tvg-id="" tvg-logo="https://bs.tbs.co.jp/resources/images/ogp_logo.jpg?20200401" group-title="BS TBS", BS TBS
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-#EXTINF:-1 tvg-id="BS FUJI" status="online",BS FUJI
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/BSF2.png/revision/latest?cb=20210724071231" group-title="BS FUJI", BS FUJI
 http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
