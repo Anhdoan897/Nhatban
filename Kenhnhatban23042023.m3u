@@ -253,11 +253,11 @@ https://cdn-hk-33.cloudrsst.com/live/mtv_540/playlist.m3u8
 https://cdn-us-186.cloudrsst.com/live/wowlive_720/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.wowowplus.jp/parts/common/img/logo_sp.png?1130" group-title="NHẬT BẢN", Wowow Plus
 https://cdn-us-186.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
-#EXTINF:-1 tvg-id="BS Nippon" status="online",BS Nippon TV (480p)
+#EXTINF:-1 tvg-id="BS Nippon" status="online",BS Nippon
 http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
-#EXTINF:-1 tvg-id="BS Asahi" status="online",BS Asahi (480p)
+#EXTINF:-1 tvg-id="BS Asahi" status="online",BS Asahi
 http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
-#EXTINF:-1 tvg-id="BS TBS" status="online",BS TBS (480p)
+#EXTINF:-1 tvg-id="BS TBS" status="online",BS TBS
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-#EXTINF:-1 tvg-id="BS FUJI" status="online",BS Fuji TV (480p)
+#EXTINF:-1 tvg-id="BS FUJI" status="online",BS FUJI
 http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
