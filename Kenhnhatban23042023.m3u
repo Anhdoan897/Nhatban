@@ -261,3 +261,5 @@ http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/BSF2.png/revision/latest?cb=20210724071231" group-title="BS FUJI", BS FUJI
 http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
