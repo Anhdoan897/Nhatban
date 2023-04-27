@@ -263,3 +263,5 @@ http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1 group-title="Golf Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4Gbtavigxq-djbhdMclSk-V5rPEp6VEnIQ&usqp=CAU", Golf Thai  
+http://113.160.13.153:250/hls/relay/OV1YoFi/index.m3u8
