@@ -265,3 +265,5 @@ http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 #EXTINF:-1 group-title="Golf Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4Gbtavigxq-djbhdMclSk-V5rPEp6VEnIQ&usqp=CAU", Golf Thai  
 http://113.160.13.153:250/hls/relay/OV1YoFi/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4Gbtavigxq-djbhdMclSk-V5rPEp6VEnIQ&usqp=CAU", Golf Thai  
+http://170.178.177.122:9083/live/LV1PLUS-lv1/27/Ae/27AeWzZ2EC2NvCE24buVIA==/live.livesegments.M3U8?sc_tk=8ycziL1TCRkS%2BezpaNtCheGuYb2g2CW%2Br6iOdcXNhzEkH8AbCRNEKzmyCBF7%2FQB8Ybo9Lh%2BtwE759MNF1u4w2TJz66xTwRNjvf2nWiNQLzY%3D&filekey=p2jSWOT4r2DJ70upvD1WxpRKvOhOZ1Ni-27Ex9b361Q%3D
