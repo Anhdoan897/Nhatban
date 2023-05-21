@@ -267,7 +267,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bs.tbs.co.jp/resources/images/ogp_logo.jpg?20200401" group-title="BS TBS", BS TBS
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/BSF2.png/revision/latest?cb=20210724071231" group-title="BS FUJI", BS FUJI
-http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+http://113.160.3.98/get.php?id=1WFDcS4-Lv_4Qsnx8TQtgg==
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 #EXTINF:-1 group-title="Golf Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4Gbtavigxq-djbhdMclSk-V5rPEp6VEnIQ&usqp=CAU", Golf Thai  
