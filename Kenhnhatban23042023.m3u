@@ -225,6 +225,8 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo A1
 https://cdn.th11.jpnettv.live/live/kanto_tv_tokyo_480/playlist.m3u8?secret=3973f63478eb795eb12cf71a28473c26&time=1684925272
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo MX
+http://203.162.235.68/streams/media/tokyo_1280x720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHK BS1",NHK BS1
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMXCLsP/1200px-NHK-General-TV-logo-svg.png" group-title="NHK G",NHK G
