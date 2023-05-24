@@ -211,15 +211,14 @@ https://code.vthanhtivi.pw/getlink/jptv/3aoWlvySJvrMYkUxn_QO-g==/playlist.m3u8#E
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QNpg3xc/TV-Asahi.png" group-title="TV Asahi", TV Asahi
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
-#https://ntv3.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="TBS TV", TBS TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A1
+https://cdn.th11.jpnettv.live/live/kanto_nippon_480/playlist.m3u8?secret=2dcbe361490c8ceaac11f0df52251b60&time=1684925879
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="TBS TV", TBS TV A1
+https://cdn.th11.jpnettv.live/live/kanto_tbs_480/playlist.m3u8?secret=3080ff1a3bad9f9f0ba9b62abc4064bb&time=1684925667
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X
 https://code.vthanhtivi.pw/getlink/jptv2/107/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1sjP7F3/1200px-Fuji-TV-logo-svg.png" group-title="FUJI TV", FUJI TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1sjP7F3/1200px-Fuji-TV-logo-svg.png" group-title="FUJI TV", FUJI TV A1
+https://cdn.th11.jpnettv.live/live/kanto_fuji_480/playlist.m3u8?secret=b59ab57c910983370f98d259c177303e&time=1684925836 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rHqrQSM/weathernewjapan.jpg" group-title="NHẬT BẢN", WEATHER NEWS JAPAN
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMtFPHZ/jp-shop-channe-5122.jpg" group-title="NHẬT BẢN", SHOP CHANNEL JAPAN
