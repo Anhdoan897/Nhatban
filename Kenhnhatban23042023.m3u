@@ -5,7 +5,7 @@ http://203.162.235.68/streams/media/nhk-g_1920x1080/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education TV  
 https://code.vthanhtivi.pw/getlink/jptv/hnsnBqHDt2EXQupW2soBjw==/playlist.m3u8
 #EXTINF:-1 group-title="Nippon TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV  
-https://code.vthanhtivi.pw/getlink/jptv/4SlJSS46Vw5igmOdvfKMww==/playlist.m3u8
+http://203.162.235.68/streams/media/nippon-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV  
 http://203.162.235.68/streams/media/tbs_1920x1080/index.m3u8
 #EXTINF:-1 group-title="FUJI TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV  
