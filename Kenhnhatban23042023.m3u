@@ -215,6 +215,12 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 https://cdn-us-154.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8?secret=f55e04bb2a4f2cd8dea084ee7fead8cb&time=1685010545
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A2
 https://cdn-us-186.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8?secret=b0cc34c2434a9b37eda40097681c428f&time=1685010614
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A3
+https://cdnv148.cloudrsst.com:444/live/kanto_nippon_480/playlist.m3u8?secret=fc81372ad4fa78b6b6eaf35ddb791604&time=1685011009
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A4
+https://cdn-us-186.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8?secret=dbb3002f810c076d528ef381df9892b3&time=1685011102
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A5
+https://cdn-live-kr68.cloudrsst.com:444/live/kanto_nippon_480/playlist.m3u8?secret=27c8441662545afc65e8745e02f6878c&time=1685011178
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="TBS TV", TBS TV A1
 https://cdn-live-kr68.cloudrsst.com:444/live/kanto_tbs_480/playlist.m3u8?secret=e624e31b709ccaf4e85bf94c321ea1df&time=1685010418
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X
