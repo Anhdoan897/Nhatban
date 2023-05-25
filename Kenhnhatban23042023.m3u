@@ -230,7 +230,7 @@ http://203.162.235.68/streams/media/tokyo_1280x720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHK BS1",NHK BS1
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMXCLsP/1200px-NHK-General-TV-logo-svg.png" group-title="NHK G",NHK G
-http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+https://cdn.th11.jpnettv.live/live/kanto_nhk_g_480/playlist.m3u8?secret=6423cdb75ab6526c194cfe80655d9c60&time=1684977259
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CWVVV89/1-200-GGP3023-W.png" group-title="NHẬT BẢN",NHK E
 http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDQKZGR/E4c594f6-3687-40d8-b8b7-af85a0378c97-removebg.png" group-title="NHẬT BẢN", WOW WOW Cinema
