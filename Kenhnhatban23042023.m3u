@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.hidari.moe/jp.xml,http://epg.hidari.moe/jpkansai.xml" tvg-shift=0 m3uautoload=1
 #--*.*--Vthanh--*.*--#
 #EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General A
-http://203.162.235.68/streams/media/nhk-g_1920x1080/index.m3u8
+http://113.160.3.98/jptv/get.php?id=Hqm-m7jqkFlA1CloJoaJZQ==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education TV  
 https://code.vthanhtivi.pw/getlink/jptv/hnsnBqHDt2EXQupW2soBjw==/playlist.m3u8
 #EXTINF:-1 group-title="Nippon TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV  
