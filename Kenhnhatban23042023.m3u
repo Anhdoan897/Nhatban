@@ -212,7 +212,7 @@ https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QNpg3xc/TV-Asahi.png" group-title="TV Asahi", TV Asahi
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A1
-https://cdn.th11.jpnettv.live/live/kanto_nippon_480/playlist.m3u8?secret=2dcbe361490c8ceaac11f0df52251b60&time=1684925879
+https://jk-live-us76.supportnettv.com/live/kanto_nippon_480/playlist.m3u8?secret=0efbbab639ffe9c32db1000111f88db4&time=1685009901
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="TBS TV", TBS TV A1
 https://cdn.th11.jpnettv.live/live/kanto_tbs_480/playlist.m3u8?secret=3080ff1a3bad9f9f0ba9b62abc4064bb&time=1684925667
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X
