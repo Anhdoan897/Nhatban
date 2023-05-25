@@ -214,7 +214,7 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A1
 https://cdn-us-186.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8?secret=f3cf490a7f5c5d7f7fe110ec4672d5f0&time=1685010039
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="TBS TV", TBS TV A1
-https://cdn-us-186.cloudrsst.com/live/kanto_tbs_480/playlist.m3u8?secret=74b347e173754645da9b4aed5190e036&time=1685010128
+https://cdn-live-kr68.cloudrsst.com:444/live/kanto_tv_tokyo_480/playlist.m3u8?secret=63537021e9fbac317ed53e598ecbed16&time=1685010327
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X
 https://code.vthanhtivi.pw/getlink/jptv2/107/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sjP7F3/1200px-Fuji-TV-logo-svg.png" group-title="FUJI TV", FUJI TV A1
