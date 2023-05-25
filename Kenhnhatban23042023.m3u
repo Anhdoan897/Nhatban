@@ -212,7 +212,9 @@ https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QNpg3xc/TV-Asahi.png" group-title="TV Asahi", TV Asahi
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A1
-https://cdn-us-186.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8?secret=f3cf490a7f5c5d7f7fe110ec4672d5f0&time=1685010039
+https://cdn-us-154.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8?secret=f55e04bb2a4f2cd8dea084ee7fead8cb&time=1685010545
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A2
+https://cdn-us-186.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8?secret=b0cc34c2434a9b37eda40097681c428f&time=1685010614
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="TBS TV", TBS TV A1
 https://cdn-live-kr68.cloudrsst.com:444/live/kanto_tbs_480/playlist.m3u8?secret=e624e31b709ccaf4e85bf94c321ea1df&time=1685010418
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X
@@ -225,6 +227,10 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo A1
 https://cdn-us-154.cloudrsst.com/live/kanto_tv_tokyo_480/playlist.m3u8?secret=21d177d76b15a994c079449eb3140347&time=1685010189
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo A2
+https://cdn-live-kr68.cloudrsst.com:444/live/kanto_tv_tokyo_480/playlist.m3u8?secret=0908f81cbb8bd9c4c1603aca2370a427&time=1685010739
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo A3
+https://cdn-live-kr68.cloudrsst.com:444/live/kanto_tv_tokyo_480/playlist.m3u8?secret=74ec8d5f39484d75424678e59e9a943d&time=168501083
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo MX
 http://203.162.235.68/streams/media/tokyo_1280x720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHK BS1",NHK BS1
