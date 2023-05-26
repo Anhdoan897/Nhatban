@@ -223,6 +223,14 @@ https://cdn-us-186.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8?secret=dbb3
 https://cdn-live-kr68.cloudrsst.com:444/live/kanto_nippon_480/playlist.m3u8?secret=27c8441662545afc65e8745e02f6878c&time=1685011178
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="TBS TV", TBS TV A1
 https://cdn-live-kr68.cloudrsst.com:444/live/kanto_tbs_480/playlist.m3u8?secret=e624e31b709ccaf4e85bf94c321ea1df&time=1685010418
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="TBS TV", TBS TV A2
+https://cdn.th11.jpnettv.live/live/kanto_tbs_480/playlist.m3u8?secret=2ff215faea2ccc3ba80ff1814609a902&time=1685062714
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="TBS TV", TBS TV A3
+https://cdnv148.cloudrsst.com:444/live/kanto_tbs_480/playlist.m3u8?secret=ca7c6ff4414586417a69cc415e7bd6f9&time=1685062817
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="TBS TV", TBS TV A4
+https://cdn-us-154.cloudrsst.com/live/kanto_tbs_480/playlist.m3u8?secret=f3f737ec1221bac961f7a9c0c7933d2b&time=1685062997
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="TBS TV", TBS TV A5
+https://cdn-us-186.cloudrsst.com/live/kanto_tbs_480/playlist.m3u8?secret=3e270f0aa378c0e97573ed991b1d296a&time=1685063038
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X
 https://code.vthanhtivi.pw/getlink/jptv2/107/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sjP7F3/1200px-Fuji-TV-logo-svg.png" group-title="FUJI TV", FUJI TV A1
