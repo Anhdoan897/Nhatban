@@ -16,78 +16,116 @@ https://cdn.th11.jpnettv.live/live/kanto_nhk_g_480/playlist.m3u8?secret=d68d8f55
 https://cdn-live-kr68.cloudrsst.com:444/live/kanto_nhk_g_480/playlist.m3u8?secret=e96ac1cd4de002ec680b9701f07f09cd&time=1685063470
 #EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G A7
 http://s22.newhometv.site/jptv2/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==
+#EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G A8
+http://s22.newhometv.site/jptv1/get.php?id=Hqm-m7jqkFlA1CloJoaJZQ==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education TV  
 https://code.vthanhtivi.pw/getlink/jptv/hnsnBqHDt2EXQupW2soBjw==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education TV A2  
 http://s22.newhometv.site/jptv2/get.php?id=hnsnBqHDt2EXQupW2soBjw==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản 1" tvg-logo="http://live.ikaeritv.com:9083/query/s/j7SQYfwTF63S9FmRqrjNJw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education TV A1
+http://s22.newhometv.site/jptv1/get.php?id=j7SQYfwTF63S9FmRqrjNJw==
 #EXTINF:-1 group-title="Nippon TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV  
 http://203.162.235.68/streams/media/nippon-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="Nippon TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV A2
 http://s22.newhometv.site/jptv2/get.php?id=4SlJSS46Vw5igmOdvfKMww==
+#EXTINF:-1 group-title="Nippon TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV A1
+http://s22.newhometv.site/jptv1/get.php?id=gnpNcLEhwujjXOxTl7gaJg==
 #EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV  
 http://203.162.235.68/streams/media/tbs_1280x720/index.m3u8
 #EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV A2
 http://s22.newhometv.site/jptv2/get.php?id=p1cu_Z3QI6VV01VJmw8vJQ==
+#EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV A1
+http://s22.newhometv.site/jptv1/get.php?id=bRZUMcrX_kQ5R0XP-xJcZg==
 #EXTINF:-1 group-title="FUJI TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV  
 http://113.160.13.153:250/hls/relay/OWFK781/index.m3u8
 #EXTINF:-1 group-title="FUJI TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV A2
 http://s22.newhometv.site/jptv2/get.php?id=uAJJq7DD6hKyPLoaMOBSUA==
+#EXTINF:-1 group-title="FUJI TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV A1
+http://s22.newhometv.site/jptv1/get.php?id=dfVr67j-Iy_J5tM4jYI7gQ==
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI  
 https://code.vthanhtivi.pw/getlink/jptv/aNwnFAidrAjzqK5Wo0KvWw==/playlist.m3u8
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI A2
 http://s22.newhometv.site/jptv2/get.php?id=aNwnFAidrAjzqK5Wo0KvWw==
+#EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI A1
+http://s22.newhometv.site/jptv1/get.php?id=iU_IC-e38CjfLhlvUxqWRg==
 #EXTINF:-1 group-title="TV TOKYO" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO  
 http://203.162.235.68/streams/media/tokyo_1920x1080/index.m3u8
 #EXTINF:-1 group-title="TV TOKYO" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO A2
 http://s22.newhometv.site/jptv2/get.php?id=2eX5WUIdzetyhgy8L8plEQ==
+#EXTINF:-1 group-title="TV TOKYO" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO A1
+http://s22.newhometv.site/jptv1/get.php?id=dRNhWs1DLdcWq_ufN6fElg==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9-SZo2YQISIfL52o5p6Wtg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOKYO MX 1  
 https://code.vthanhtivi.pw/getlink/jptv/9-SZo2YQISIfL52o5p6Wtg==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9-SZo2YQISIfL52o5p6Wtg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOKYO MX 1 A2
 http://s22.newhometv.site/jptv2/get.php?id=9-SZo2YQISIfL52o5p6Wtg==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://live.ikaeritv.com:9083/query/s/9FvJseD6_AtVYU1vxvgzFA==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOKYO MX 1 A1
+http://s22.newhometv.site/jptv1/get.php?id=9FvJseD6_AtVYU1vxvgzFA==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/u6-t-I0UVIdrkCYJzXFkpg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOKYO MX 2  
 https://code.vthanhtivi.pw/getlink/jptv/u6-t-I0UVIdrkCYJzXFkpg==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/u6-t-I0UVIdrkCYJzXFkpg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOKYO MX 2 A2
 http://s22.newhometv.site/jptv2/get.php?id=u6-t-I0UVIdrkCYJzXFkpg==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/u6-t-I0UVIdrkCYJzXFkpg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOKYO MX 2 A1
+http://s22.newhometv.site/jptv1/get.php?id=9FvJseD6_AtVYU1vxvgzFA==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/mCOs5Hrdk31FTwR6IJj_hA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General・OSAKA  
 https://code.vthanhtivi.pw/getlink/jptv/mCOs5Hrdk31FTwR6IJj_hA==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/mCOs5Hrdk31FTwR6IJj_hA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General・OSAKA A2  
 http://s22.newhometv.site/jptv2/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/mCOs5Hrdk31FTwR6IJj_hA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General・OSAKA A1
+http://s22.newhometv.site/jptv1/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Efifu_2sffWgvfUzPuoNvA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education・OSAKA  
 https://code.vthanhtivi.pw/getlink/jptv/Efifu_2sffWgvfUzPuoNvA==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Efifu_2sffWgvfUzPuoNvA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education・OSAKA A2 
 http://s22.newhometv.site/jptv2/get.php?id=Efifu_2sffWgvfUzPuoNvA==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Efifu_2sffWgvfUzPuoNvA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education・OSAKA A1
+http://s22.newhometv.site/jptv1/get.php?id=Efifu_2sffWgvfUzPuoNvA==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/ZOJu5avj3LIqoRXR9ogC0w==.jpg?type=live&thumbnail=thumbnail_small.jpg", MBS  
 https://code.vthanhtivi.pw/getlink/jptv/ZOJu5avj3LIqoRXR9ogC0w==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/ZOJu5avj3LIqoRXR9ogC0w==.jpg?type=live&thumbnail=thumbnail_small.jpg", MBS A2 
 http://s22.newhometv.site/jptv2/get.php?id=ZOJu5avj3LIqoRXR9ogC0w==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/ZOJu5avj3LIqoRXR9ogC0w==.jpg?type=live&thumbnail=thumbnail_small.jpg", MBS A1
+http://s22.newhometv.site/jptv1/get.php?id=R3W0ABMki1QGwd3TxPxjhA==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/-th1_a7-fXyMoWDACk-jjg==.jpg?type=live&thumbnail=thumbnail_small.jpg", KBS KYOTO  
 https://code.vthanhtivi.pw/getlink/jptv/-th1_a7-fXyMoWDACk-jjg==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/-th1_a7-fXyMoWDACk-jjg==.jpg?type=live&thumbnail=thumbnail_small.jpg", KBS KYOTO A2 
 http://s22.newhometv.site/jptv2/get.php?id=-th1_a7-fXyMoWDACk-jjg==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/-th1_a7-fXyMoWDACk-jjg==.jpg?type=live&thumbnail=thumbnail_small.jpg", KBS KYOTO A1
+http://s22.newhometv.site/jptv1/get.php?id=hFzosjtNqYtZGMMnkL0T7w==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/G2VFEt11D2hQyexpltLAFQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", ABC TV  
 https://code.vthanhtivi.pw/getlink/jptv/G2VFEt11D2hQyexpltLAFQ==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/G2VFEt11D2hQyexpltLAFQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", ABC TV A2 
 http://s22.newhometv.site/jptv2/get.php?id=G2VFEt11D2hQyexpltLAFQ==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/G2VFEt11D2hQyexpltLAFQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", ABC TV A1
+http://s22.newhometv.site/jptv1/get.php?id=oI8q04LSmuVJ76lxll2FWg==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Ep1PQsectdEoqb5giVMrdw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV OSAKA  
 https://code.vthanhtivi.pw/getlink/jptv/Ep1PQsectdEoqb5giVMrdw==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Ep1PQsectdEoqb5giVMrdw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV OSAKA A2 
 http://s22.newhometv.site/jptv2/get.php?id=Ep1PQsectdEoqb5giVMrdw==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Ep1PQsectdEoqb5giVMrdw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV OSAKA A1
+http://s22.newhometv.site/jptv1/get.php?id=czZDtneIVvfAZn-728ylZw==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/M1nVWHnA3F2pv8mBmfM0PQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", Kansai TV  
 https://code.vthanhtivi.pw/getlink/jptv/M1nVWHnA3F2pv8mBmfM0PQ==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/M1nVWHnA3F2pv8mBmfM0PQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", Kansai TV A2 
 http://s22.newhometv.site/jptv2/get.php?id=M1nVWHnA3F2pv8mBmfM0PQ==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/M1nVWHnA3F2pv8mBmfM0PQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", Kansai TV A1
+http://s22.newhometv.site/jptv1/get.php?id=jXAkGPMC5sVcMvQ09HoU4g==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hYnuGNMX-sWlu6qDdQe5bg==.jpg?type=live&thumbnail=thumbnail_small.jpg", Yomiuri TV  
 https://code.vthanhtivi.pw/getlink/jptv/hYnuGNMX-sWlu6qDdQe5bg==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hYnuGNMX-sWlu6qDdQe5bg==.jpg?type=live&thumbnail=thumbnail_small.jpg", Yomiuri TV A2 
 http://s22.newhometv.site/jptv2/get.php?id=hYnuGNMX-sWlu6qDdQe5bg==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hYnuGNMX-sWlu6qDdQe5bg==.jpg?type=live&thumbnail=thumbnail_small.jpg", Yomiuri TV A1
+http://s22.newhometv.site/jptv1/get.php?id=LqzQ_qk7P8LNOaghAThx4g==
 #EXTINF:-1 group-title="NHK BS1" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9sqPFIgIL9jPHSVgfZvocw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS1  
 https://code.vthanhtivi.pw/getlink/jptv/9sqPFIgIL9jPHSVgfZvocw==/playlist.m3u8
 #EXTINF:-1 group-title="NHK BS1" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9sqPFIgIL9jPHSVgfZvocw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS1 A2 
 http://s22.newhometv.site/jptv2/get.php?id=9sqPFIgIL9jPHSVgfZvocw==
+#EXTINF:-1 group-title="NHK BS1" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9sqPFIgIL9jPHSVgfZvocw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS1 A1
+http://s22.newhometv.site/jptv1/get.php?id=f-uLAeVdSWp9bd1XFM3Pzw==
 #EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium  
 https://code.vthanhtivi.pw/getlink/jptv/4D-J_Jybe7vuwDFEEopxPA==/playlist.m3u8
 #EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium A2
 http://s22.newhometv.site/jptv2/get.php?id=4D-J_Jybe7vuwDFEEopxPA==
+#EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium A1
+http://s22.newhometv.site/jptv1/get.php?id=z3QuIfTGLtMqsBfWF1H4Pg==
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV  
 http://10.10.1.134/BS-Nippon/index.m3u8
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV 
@@ -96,22 +134,32 @@ http://10.10.1.134/BS-Nippon/index.m3u8
 http://s22.newhometv.site/jptv2/get.php?id=OW-ptn455y7PFTNGgwS2mg==
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon A  
 http://203.162.235.68/streams/media/bs-nippon_1920x1080/index.m3u8
+#EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV A1
+http://s22.newhometv.site/jptv1/get.php?id=9GYVLtOWedFVhurDZOtidw==
 #EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi  
 http://203.162.235.68/streams/media/bs-asahi_1920x1080/index.m3u8
 #EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi A2
 http://s22.newhometv.site/jptv2/get.php?id=BIvrrhxU6N9OlSgVT-HPrQ==
+#EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi A1
+http://s22.newhometv.site/jptv1/get.php?id=CDf67JD0vmiC74DDaND-XA==
 #EXTINF:-1 group-title="BS TBS" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS  
 http://203.162.235.68/streams/media/bs-tbs_1920x1080/index.m3u8
 #EXTINF:-1 group-title="BS TBS" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS A2
 http://s22.newhometv.site/jptv2/get.php?id=PsnqEBgAyeiCC2gXhv5ODQ==
+#EXTINF:-1 group-title="BS TBS" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS A1
+http://s22.newhometv.site/jptv1/get.php?id=JKQRufMevFV7GDKYePYwBQ==
 #EXTINF:-1 group-title="BS Japan" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/LmVq1wXCa4u6hpFsEFO79w==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Japan A
 https://code.vthanhtivi.pw/getlink/jptv/LmVq1wXCa4u6hpFsEFO79w==/playlist.m3u8
 #EXTINF:-1 group-title="BS Japan" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/LmVq1wXCa4u6hpFsEFO79w==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Japan A2
 http://s22.newhometv.site/jptv2/get.php?id=LmVq1wXCa4u6hpFsEFO79w==
+#EXTINF:-1 group-title="BS Japan" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/LmVq1wXCa4u6hpFsEFO79w==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Japan A1
+http://s22.newhometv.site/jptv1/get.php?id=y288Dc5aSplzqGsFpCvm-g==
 #EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI  
 http://203.162.235.68/streams/media/bs-fuji_1920x1080/index.m3u8
 #EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI A2
 http://s22.newhometv.site/jptv2/get.php?id=GpcPKY0rAfMZ9_mQkcePpA==
+#EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI A1
+http://s22.newhometv.site/jptv1/get.php?id=1WFDcS4-Lv_4Qsnx8TQtgg==
 #EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI AD 
 http://113.160.13.153:250/hls/relay/OXNylnK/index.m3u8
 #EXTINF:-1 group-title="WOWOW Prime" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/CXrJaWUllYhR6k5e0_K46w==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Prime  
@@ -120,18 +168,26 @@ http://203.162.235.68/streams/media/wowow-prime_1920x1080/index.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="WOWOW Prime" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/CXrJaWUllYhR6k5e0_K46w==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Prime A2
 http://s22.newhometv.site/jptv2/get.php?id=CXrJaWUllYhR6k5e0_K46w==
+#EXTINF:-1 group-title="WOWOW Prime" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/CXrJaWUllYhR6k5e0_K46w==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Prime A1
+http://s22.newhometv.site/jptv1/get.php?id=HloiOsNhiBm-DF9vVfFMTw==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uvUJ5ldHHBqaZg9YQQxgxA==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Live  
 https://code.vthanhtivi.pw/getlink/jptv/uvUJ5ldHHBqaZg9YQQxgxA==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uvUJ5ldHHBqaZg9YQQxgxA==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Live A2 
 http://s22.newhometv.site/jptv2/get.php?id=uvUJ5ldHHBqaZg9YQQxgxA==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uvUJ5ldHHBqaZg9YQQxgxA==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Live A1
+http://s22.newhometv.site/jptv1/get.php?id=g8s69Z5bxLZgAoqqFT8iDg==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/cGESSfZuFTTLxxX_J8lP-g==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Cinema  
 https://code.vthanhtivi.pw/getlink/jptv/cGESSfZuFTTLxxX_J8lP-g==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/cGESSfZuFTTLxxX_J8lP-g==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Cinema A2
 http://s22.newhometv.site/jptv2/get.php?id=cGESSfZuFTTLxxX_J8lP-g==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/cGESSfZuFTTLxxX_J8lP-g==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Cinema A1
+http://s22.newhometv.site/jptv1/get.php?id=iF6iKCiap5agDJYZhyVjwg==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/juX1wIFGTBstyURxb0adxA==.jpg?type=live&thumbnail=thumbnail_small.jpg", Star Channel 1  
 https://code.vthanhtivi.pw/getlink/jptv/juX1wIFGTBstyURxb0adxA==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/juX1wIFGTBstyURxb0adxA==.jpg?type=live&thumbnail=thumbnail_small.jpg", Star Channel 1 A2
 http://s22.newhometv.site/jptv2/get.php?id=juX1wIFGTBstyURxb0adxA==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/juX1wIFGTBstyURxb0adxA==.jpg?type=live&thumbnail=thumbnail_small.jpg", Star Channel 1 A1
+http://s22.newhometv.site/jptv1/get.php?id=yUuqXFK2vDyiwU66uQEQ1Q==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/i9U0n9TJ5odRHqWxtilBRA==.jpg?type=live&thumbnail=thumbnail_small.jpg", Star Channel 2  
 https://code.vthanhtivi.pw/getlink/jptv/i9U0n9TJ5odRHqWxtilBRA==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/i9U0n9TJ5odRHqWxtilBRA==.jpg?type=live&thumbnail=thumbnail_small.jpg", Star Channel 2 A2 
