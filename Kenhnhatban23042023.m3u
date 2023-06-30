@@ -551,9 +551,7 @@ http://s22.newhometv.site/jptv1/get.php?id=G7Ernt-n_X5V7KUcreybIQ==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://live.ikaeritv.com:9083/query/s/-uV8jOhgHBRuuEMBdU0Yig==.jpg?type=live&thumbnail=thumbnail_small.jpg", Sport Live +  
 http://s22.newhometv.site/jptv1/get.php?id=-uV8jOhgHBRuuEMBdU0Yig=
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://live.ikaeritv.com:9083/query/s/bMt3M9FLE1owVWp5Do1qnQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", Tabi Channel ＨＤ  
-http://s22.newhometv.site/jptv1/get.php?id=bMt3M9FLE1owVWp5Do1qnQ==
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản 1" tvg-logo="http://live.ikaeritv.com:9083/query/s/roHA-uoOn8d5muaZM04Qxg==.jpg?type=live&thumbnail=thumbnail_small.jpg", FIGHTING TV  
-http://s22.newhometv.site/jptv1/get.php?id=roHA-uoOn8d5muaZM04Qxg==
+http://s22.newhometv.site/jptv1/get.php?id=bMt3M9FLE1owVWp5Do1qnQ== 
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hVlErRkxgtD7mpAR6ZXPmQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", CNNj  
 https://code.vthanhtivi.pw/getlink/jptv/hVlErRkxgtD7mpAR6ZXPmQ==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hVlErRkxgtD7mpAR6ZXPmQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", CNNj A2
@@ -578,6 +576,8 @@ http://s22.newhometv.site/jptv2/get.php?id=Ih6yFFU-BWZYUxzjKvFzwg==
 https://code.vthanhtivi.pw/getlink/jptv/Yg2MUia31VB-YVInrMhFMw==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Yg2MUia31VB-YVInrMhFMw==.jpg?type=live&thumbnail=thumbnail_small.jpg", Fighting TV Samurai A2   
 http://s22.newhometv.site/jptv2/get.php?id=Yg2MUia31VB-YVInrMhFMw==
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Yg2MUia31VB-YVInrMhFMw==.jpg?type=live&thumbnail=thumbnail_small.jpg", Fighting TV Samurai A1
+http://s22.newhometv.site/jptv1/get.php?id=roHA-uoOn8d5muaZM04Qxg==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/QMo2pn1hiih5XYKptbKfuA==.jpg?type=live&thumbnail=thumbnail_small.jpg", Music Japan TV  
 https://code.vthanhtivi.pw/getlink/jptv/QMo2pn1hiih5XYKptbKfuA==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/QMo2pn1hiih5XYKptbKfuA==.jpg?type=live&thumbnail=thumbnail_small.jpg", Music Japan TV A2 
