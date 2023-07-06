@@ -124,8 +124,8 @@ http://s22.newhometv.site/jptv1/get.php?id=f-uLAeVdSWp9bd1XFM3Pzw==
 http://vdo.itvlive.net:8080/NHKBS/index.m3u8?token=f75175c1f7ec871d2e6cd0ba642820bf2b8b529b-584ed00f881aeef001dc8a12454e39b5-1685116425-1685073225&remote=no_check_ip
 #EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium A2
 http://sv68.newhometv.site/streams/media/nhk-bsp_1280x720/index.m3u8
-#EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium A1
-http://s22.newhometv.site/jptv1/get.php?id=z3QuIfTGLtMqsBfWF1H4Pg==
+#EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium Vthanh
+http://code.vthanhtivi.pw/getlink/jptv1/z3QuIfTGLtMqsBfWF1H4Pg==/playlist_eb9368481d6fd72ca38a6c27a152937bf0d47df4.m3u8
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV  
 http://10.10.1.134/BS-Nippon/index.m3u8
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV 
@@ -658,7 +658,7 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDQKZGR/E4c594f6-3687-40d8-b8b7-af85a0378c97-removebg.png" group-title="NHẬT BẢN", WOW WOW Cinema
 https://cdn-us-186.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MhJQL0c/kisspng-logo-nhk-bs-premium-nhk-bs-2-nhk-bs1-bs-logo-www-galleryhip-com-the-hippest-pics-5bfac98cb7a.jpg" group-title="NHK BSP",NHK BSP
-http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+https://cdn-us-154.cloudrsst.com/live/bspremium_540/playlist.m3u8?secret=3573ce8d0ade306de1cb7933cc968269&time=1685500198
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/zpi6mQ3.png" group-title="NHẬT BẢN",Animax
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="NHẬT BẢN",Disney Channel
