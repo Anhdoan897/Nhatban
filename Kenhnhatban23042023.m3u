@@ -42,8 +42,8 @@ http://113.160.13.153:250/hls/relay/OWFK781/index.m3u8
 http://s22.newhometv.site/jptv2/get.php?id=uAJJq7DD6hKyPLoaMOBSUA==
 #EXTINF:-1 group-title="FUJI TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV A1
 http://s22.newhometv.site/jptv1/get.php?id=dfVr67j-Iy_J5tM4jYI7gQ==
-#EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI  
-https://code.vthanhtivi.pw/getlink/jptv/aNwnFAidrAjzqK5Wo0KvWw==/playlist.m3u8
+#EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI VDO 
+http://s9.itvlive.net:8080/ASAHI/index.m3u8?token=a35a849f07d2b1024a2bef0f459af0caa48aef87-c249f1d545c9b8e85d09323764d8f926-1685116118-1685072918&remote=no_check_ip
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI A2
 http://s22.newhometv.site/jptv2/get.php?id=aNwnFAidrAjzqK5Wo0KvWw==
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI A1
