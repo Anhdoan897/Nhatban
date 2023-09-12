@@ -29,7 +29,7 @@ http://203.162.235.68/streams/media/nippon-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="Nippon TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV A2
 http://s22.newhometv.site/jptv2/get.php?id=4SlJSS46Vw5igmOdvfKMww==
 #EXTINF:-1 group-title="Nippon TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV A1
-http://s22.newhometv.site/jptv1/get.php?id=gnpNcLEhwujjXOxTl7gaJg==
+http://s9.itvlive.net:8080/Nihon/tracks-v1a1/mono.m3u8?token=edd440d22d78639ade56ae566cb372d008f6a523-dc9f94f0c17f23389aab9a611da3ed05-1685116034-1685072834
 #EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV VDO  
 http://s9.itvlive.net:8080/TBS/tracks-v1a1/mono.m3u8?token=46948cf2ec5cb5447d59dd33074340e0d82eb4e9-785181495b98cce9fe3cf8a0dbeace82-1685116070-1685072870
 #EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV A2
@@ -148,8 +148,8 @@ http://s22.newhometv.site/jptv1/get.php?id=CDf67JD0vmiC74DDaND-XA==
 http://203.162.235.68/streams/media/bs-tbs_1920x1080/index.m3u8
 #EXTINF:-1 group-title="BS TBS" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS A2
 http://s22.newhometv.site/jptv2/get.php?id=PsnqEBgAyeiCC2gXhv5ODQ==
-#EXTINF:-1 group-title="BS TBS" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS A1
-http://s22.newhometv.site/jptv1/get.php?id=JKQRufMevFV7GDKYePYwBQ==
+#EXTINF:-1 group-title="BS TBS" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS VDO
+http://s9.itvlive.net:8080/TBS/tracks-v1a1/mono.m3u8?token=46948cf2ec5cb5447d59dd33074340e0d82eb4e9-785181495b98cce9fe3cf8a0dbeace82-1685116070-1685072870
 #EXTINF:-1 group-title="BS Japan" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/LmVq1wXCa4u6hpFsEFO79w==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Japan Vthanh
 https://code.vthanhtivi.pw/getlink/jptv/LmVq1wXCa4u6hpFsEFO79w==/playlist.m3u8
 #EXTINF:-1 group-title="BS Japan" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/LmVq1wXCa4u6hpFsEFO79w==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Japan Muji
