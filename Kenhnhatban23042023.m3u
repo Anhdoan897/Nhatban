@@ -141,7 +141,7 @@ http://vdo.itvlive.net:8080/BSNIHON/index.m3u8?token=7d416e394d1dcccc8afbf946b4c
 #EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi  
 http://203.162.235.68/streams/media/bs-asahi_1920x1080/index.m3u8
 #EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi A2
-http://s22.newhometv.site/jptv2/get.php?id=BIvrrhxU6N9OlSgVT-HPrQ==
+http://vdo.itvlive.net:8080/BsAsahi/index.m3u8?token=a713cbe890d243a4b97d4472fd2d155da95855b8-c10658f4f632e751d2514e3809a93bc3-1685116473-1685073273&remote=no_check_ip
 #EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi VDO
 http://vdo.itvlive.net:8080/BsAsahi/index.m3u8?token=a713cbe890d243a4b97d4472fd2d155da95855b8-c10658f4f632e751d2514e3809a93bc3-1685116473-1685073273&remote=no_check_ip#EXTINF:-1 group-title="BS TBS" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS  
 http://203.162.235.68/streams/media/bs-tbs_1920x1080/index.m3u8
