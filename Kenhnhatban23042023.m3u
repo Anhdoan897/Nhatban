@@ -162,8 +162,7 @@ http://203.162.235.68/streams/media/bs-fuji_1920x1080/index.m3u8
 #EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI A2
 http://s22.newhometv.site/jptv2/get.php?id=GpcPKY0rAfMZ9_mQkcePpA==
 #EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI A1
-http://s22.newhometv.site/jptv1/get.php?id=1WFDcS4-Lv_4Qsnx8TQtgg==
-#EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI AD 
+http://vdo.itvlive.net:8080/BSFUJI/index.m3u8?token=33ef1c45718e541e03cf5dcf478493986c63084d-a56af9c016c8c02991e18db53c2170f6-1685116519-1685073319&remote=no_check_ip#EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI AD 
 http://vdo.itvlive.net:8080/BSFUJI/index.m3u8?token=33ef1c45718e541e03cf5dcf478493986c63084d-a56af9c016c8c02991e18db53c2170f6-1685116519-1685073319&remote=no_check_ip
 #EXTINF:-1 group-title="WOWOW Prime" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/CXrJaWUllYhR6k5e0_K46w==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Prime  
 http://203.162.235.68/streams/media/wowow-prime_1920x1080/index.m3u8
