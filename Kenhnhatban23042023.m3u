@@ -48,10 +48,10 @@ http://vdo.itvlive.net:8080/ASAHI/index.m3u8?token=a35a849f07d2b1024a2bef0f459af
 https://asia.vthanhtivi.pw/TV_Asahi/index.m3u
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI A1
 http://171.244.62.178/jptv2/get.php?id=aNwnFAidrAjzqK5Wo0KvWw==
-#EXTINF:-1 group-title="TV TOKYO" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO  
-http://203.162.235.68/streams/media/tokyo_1920x1080/index.m3u8
-#EXTINF:-1 group-title="TV TOKYO" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO A2
-http://s22.newhometv.site/jptv2/get.php?id=2eX5WUIdzetyhgy8L8plEQ==
+#EXTINF:-1 group-title="TV TOKYO" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO 171 
+http://171.244.62.178/jptv2/get.php?id=2eX5WUIdzetyhgy8L8plEQ==
+#EXTINF:-1 group-title="TV TOKYO" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO VT
+http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
 #EXTINF:-1 group-title="TV TOKYO" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO VDO
 http://vdo.itvlive.net:8080/TOKYO/index.m3u8?token=212ad5aa12c8741bfcc3b1a3c0a6b4ff58bf5995-49cd05409f2641fba70b100814ec84bf-1685116137-1685072937&remote=no_check_ip
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9-SZo2YQISIfL52o5p6Wtg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOKYO MX 1  
@@ -633,14 +633,6 @@ https://cdn.th11.jpnettv.live/live/kanto_fuji_480/playlist.m3u8?secret=b59ab57c9
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMtFPHZ/jp-shop-channe-5122.jpg" group-title="NHẬT BẢN", SHOP CHANNEL JAPAN
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo A1
-https://cdn-us-154.cloudrsst.com/live/kanto_tv_tokyo_480/playlist.m3u8?secret=21d177d76b15a994c079449eb3140347&time=1685010189
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo A2
-https://cdn-live-kr68.cloudrsst.com:444/live/kanto_tv_tokyo_480/playlist.m3u8?secret=0908f81cbb8bd9c4c1603aca2370a427&time=1685010739
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo A3
-https://cdn-live-kr68.cloudrsst.com:444/live/kanto_tv_tokyo_480/playlist.m3u8?secret=74ec8d5f39484d75424678e59e9a943d&time=168501083
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo MX
-http://203.162.235.68/streams/media/tokyo_1280x720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHK BS1",NHK BS1
 https://cdn-live-kr68.cloudrsst.com:444/live/nhkbs1_540/playlist.m3u8?secret=4229bdfb55951f89309109bc75c75023&time=1685172731
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHK BS1",NHK BS1 A
