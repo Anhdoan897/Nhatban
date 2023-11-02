@@ -37,7 +37,7 @@ http://vdo.itvlive.net:8080/FUJI/tracks-v1a1/mono.m3u8?token=41f71fd96cf13cd0664
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI VDO 
 http://vdo.itvlive.net:8080/ASAHI/index.m3u8?token=a35a849f07d2b1024a2bef0f459af0caa48aef87-c249f1d545c9b8e85d09323764d8f926-1685116118-1685072918&remote=no_check_ip
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI VT
-https://asia.vthanhtivi.pw/TV_Asahi/index.m3u
+https://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI A1
 http://171.244.62.178/jptv2/get.php?id=aNwnFAidrAjzqK5Wo0KvWw==
 #EXTINF:-1 group-title="TV TOKYO" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO 171 
