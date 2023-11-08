@@ -149,13 +149,12 @@ http://171.244.62.178/jptv2/get.php?id=LmVq1wXCa4u6hpFsEFO79w==
 http://s22.newhometv.site/jptv1/get.php?id=y288Dc5aSplzqGsFpCvm-g==
 #EXTINF:-1 group-title="BS Japan" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/LmVq1wXCa4u6hpFsEFO79w==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Japan VDO
 http://vdo.itvlive.net:8080/BSJAPAN/index.m3u8?token=076a89e6b97e0694b06124ac8cc36a2ce2faf9d7-4c19e15677c45a987ed1a46d58fca477-1685116507-1685073307&remote=no_check_ip
-#EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI  
-http://203.162.235.68/streams/media/bs-fuji_1920x1080/index.m3u8
-#EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI A2
-http://s22.newhometv.site/jptv2/get.php?id=GpcPKY0rAfMZ9_mQkcePpA==
+#EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI 68
+http://sv68.newhometv.site/streams/media/bs-fuji_1280x720/index.m3u8
+#EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI 171
+http://171.244.62.178/jptv2/get.php?id=GpcPKY0rAfMZ9_mQkcePpA==
 #EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI A1
 http://vdo.itvlive.net:8080/BSFUJI/index.m3u8?token=33ef1c45718e541e03cf5dcf478493986c63084d-a56af9c016c8c02991e18db53c2170f6-1685116519-1685073319&remote=no_check_ip#EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI AD 
-http://vdo.itvlive.net:8080/BSFUJI/index.m3u8?token=33ef1c45718e541e03cf5dcf478493986c63084d-a56af9c016c8c02991e18db53c2170f6-1685116519-1685073319&remote=no_check_ip
 #EXTINF:-1 group-title="WOWOW Prime" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/CXrJaWUllYhR6k5e0_K46w==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Prime  
 http://203.162.235.68/streams/media/wowow-prime_1920x1080/index.m3u8
 #EXTINF:-1 group-title="WOWOW Prime" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/CXrJaWUllYhR6k5e0_K46w==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Prime  
