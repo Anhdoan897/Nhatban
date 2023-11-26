@@ -8,8 +8,8 @@ http://asia.vthanhtivi.pw/NHK_G/index.m3u8
 http://171.244.62.178/jptv2/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==
 #EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G A4
 https://cdn-us-186.cloudrsst.com/live/kanto_nhk_g_480/playlist.m3u8?secret=ffd39b6f84078e491312e8d0454a149d&time=1685063364
-#EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G A8
-http://s9.itvlive.net:8080/NHKG/tracks-v1a1/mono.m3u8?token=b6ea5cf925f25f742a86fee1bcee11bb86d7025e-66f99bba276ecbdf54f9d161d2ac81d9-1685115916-1685072716
+#EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G 171-2
+http://171.244.62.178/jptv2/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education TV  
 https://code.vthanhtivi.pw/getlink/jptv/hnsnBqHDt2EXQupW2soBjw==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education TV A2  
