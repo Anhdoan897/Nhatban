@@ -114,12 +114,13 @@ https://code.vthanhtivi.pw/getlink/jptvvn/215/playlist.m3u8
 http://171.244.62.178/jptv2/get.php?id=9sqPFIgIL9jPHSVgfZvocw==
 #EXTINF:-1 group-title="NHK BS1" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9sqPFIgIL9jPHSVgfZvocw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS1 VDO
 http://vdo.itvlive.net:8080/NHKBS1/index.m3u8?token=d08d1a4b273c658cbd38b0898805f9efa0457b3b-d9d4ac2a17503ed19ce0d3a36af163fc-1685116409-1685073209&remote=no_check_ip
-#EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium  
-http://vdo.itvlive.net:8080/NHKBS/index.m3u8?token=f75175c1f7ec871d2e6cd0ba642820bf2b8b529b-584ed00f881aeef001dc8a12454e39b5-1685116425-1685073225&remote=no_check_ip
-#EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium A2
-https://tiemnhazunn.click/japantv/?id=33
+#EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium 171
+http://171.244.62.178/jptv2/get.php?id=4D-J_Jybe7vuwDFEEopxPA==
+#EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium KIPTV
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://thick.ddns.net/japantv/?id=33
 #EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium Vthanh
-https://code.vthanhtivi.pw/getlink/jptv2/24/playlist.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV 171
 http://171.244.62.178/jptv2/get.php?id=OW-ptn455y7PFTNGgwS2mg==
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon VT 
