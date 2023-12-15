@@ -23,7 +23,7 @@ https://asia.vthanhtivi.pw/NTV/index.m3u8
 #EXTINF:-1 group-title="Nippon TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV A1
 http://vdo.itvlive.net:8080/Nihon/tracks-v1a1/mono.m3u8?token=edd440d22d78639ade56ae566cb372d008f6a523-dc9f94f0c17f23389aab9a611da3ed05-1685116034-1685072834
 #EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV VDO  
-http://s9.itvlive.net:8080/TBS/tracks-v1a1/mono.m3u8?token=46948cf2ec5cb5447d59dd33074340e0d82eb4e9-785181495b98cce9fe3cf8a0dbeace82-1685116070-1685072870
+http://cdn.itvlive.net:8080/TBS/index.m3u8?token=6272b4f83bbbdb58639112dceb70753de6ef324c-40cc744629211e1a00096360f6322a0b-1702704240-1702661040&remote=no_check_ip
 #EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV A2
 http://s22.newhometv.site/jptv2/get.php?id=p1cu_Z3QI6VV01VJmw8vJQ==
 #EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV A1
