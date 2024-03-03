@@ -696,3 +696,7 @@ http://38.96.178.201:80/live/ESPN2/index.m3u8
 http://38.96.178.201:80/live/ESPNews/index.m3u8
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png", ESPN TEDCOM
 http://203.162.235.16/streams/media/espn_1920x1080/index.m3u8
+#EXTINF:-1 group-title="TrueFB2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="TrueFB2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
+http://203.162.235.62/hls/relay/Ou3eK9e/index.m3u8
