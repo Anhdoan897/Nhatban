@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://epg.hidari.moe/jp.xml,http://epg.hidari.moe/jpkansai.xml" tvg-shift=0 m3uautoload=1
 #--*.*--Vthanh--*.*--#
+#EXTINF:-1 group-title="🇬🇧 ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
+http://str1.cvtv.xyz/SkyN?token=live
 #EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G 250
 http://sv.newhometv.site:250/streams/media/nhk-g_960x540/index.m3u8
 #EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G VT
