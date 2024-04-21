@@ -704,3 +704,5 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 http://203.162.235.16/streams/media/true-fb_1920x1080/index.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.ibb.co/q1GPVFM/SCTV15-SSport-cc.webp", SCTV15
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+#EXTINF:-1 group-title="In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
