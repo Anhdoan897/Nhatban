@@ -710,9 +710,11 @@ https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 http://203.162.235.4/streams/media/true-sport3_1920x1080/index.m3u8
 #EXTINF:-1 group-title="True Sport 2" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fvi%2Fwiki%2FTrue_Sports_2&psig=AOvVaw3AFRpjF-KJdOgv4n6chf15&ust=1714721850105000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDvmei67oUDFQAAAAAdAAAAABAE",True Sport 2 - LAOTV
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 group-title="True Sport 2" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fvi%2Fwiki%2FTrue_Sports_2&psig=AOvVaw3AFRpjF-KJdOgv4n6chf15&ust=1714721850105000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDvmei67oUDFQAAAAAdAAAAABAE",SkySports_Football-FHD
+https://7pal.short.gy/ssportsfb
 #EXTINF:-1 group-title="True Tenis" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftv.trueid.net%2Fth-th%2Flive%2Ftrue-tennis-hd&psig=AOvVaw2JN8kk5nEDdiw2PHIoHmG7&ust=1714722092139000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDJn9u77oUDFQAAAAAdAAAAABAE",True Tenis - TEDCOM
 http://203.162.235.4/streams/media/true-sport-tenis_1920x1080/index.m3u8
-#EXTINF:-1 group-title="True Tenis" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftv.trueid.net%2Fth-th%2Flive%2Ftrue-tennis-hd&psig=AOvVaw2JN8kk5nEDdiw2PHIoHmG7&ust=1714722092139000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDJn9u77oUDFQAAAAAdAAAAABAE",True Tenis - TEDCOM
+#EXTINF:-1 group-title="True Tenis" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftv.trueid.net%2Fth-th%2Flive%2Ftrue-tennis-hd&psig=AOvVaw2JN8kk5nEDdiw2PHIoHmG7&ust=1714722092139000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDJn9u77oUDFQAAAAAdAAAAABAE",True Tenis - LAO TV
 https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 group-title="True Tenis" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftv.trueid.net%2Fth-th%2Flive%2Ftrue-tennis-hd&psig=AOvVaw2JN8kk5nEDdiw2PHIoHmG7&ust=1714722092139000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDJn9u77oUDFQAAAAAdAAAAABAE",Sky Sport - Tenis
 https://7pal.short.gy/ssportstn
