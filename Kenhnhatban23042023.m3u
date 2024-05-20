@@ -724,4 +724,9 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://www.bntnews.co.kr/data/bnt/image/201811/ab30063c0cd3b45d2fec9cd829c428e5.jpg", TV Chosun 2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-
+#EXTINF:-1 group-title="CETV 1" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftv.trueid.net%2Fth-th%2Flive%2Ftrue-tennis-hd&psig=AOvVaw2JN8kk5nEDdiw2PHIoHmG7&ust=1714722092139000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDJn9u77oUDFQAAAAAdAAAAABAE",CETV 1
+http://113.160.13.153:250/streams/media/cetv1_720x576/index.m3u8
+#EXTINF:-1 group-title="CGTN" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="CGTN" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN Dak Lak
+http://103.130.141.67:81/live/3/playlist.m3u8
