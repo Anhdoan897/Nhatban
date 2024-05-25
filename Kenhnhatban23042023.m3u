@@ -2,8 +2,8 @@
 #--*.*--Vthanh--*.*--#
 #EXTINF:-1 group-title="🇬🇧 ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
 http://str1.cvtv.xyz/SkyN?token=live
-#EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G 250
-http://sv.newhometv.site:250/streams/media/nhk-g_960x540/index.m3u8
+#EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G VT
 https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
 #EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G 171
@@ -12,8 +12,7 @@ http://171.244.62.178/jptv2/get.php?id=Zt19NGeOuIq3EwLPZh_KvQ==
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 #EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G 171-2
 http://171.244.62.178/jptv2/get.php?id=mCOs5Hrdk31FTwR6IJj_hA==
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education TV  
-https://code.vthanhtivi.pw/getlink/jptv/hnsnBqHDt2EXQupW2soBjw==/playlist.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK E JP
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hnsnBqHDt2EXQupW2soBjw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education TV A2  
 http://s22.newhometv.site/jptv2/get.php?id=hnsnBqHDt2EXQupW2soBjw==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản 1" tvg-logo="http://live.ikaeritv.com:9083/query/s/j7SQYfwTF63S9FmRqrjNJw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education TV A1
@@ -22,16 +21,20 @@ http://s22.newhometv.site/jptv1/get.php?id=j7SQYfwTF63S9FmRqrjNJw==
 http://171.244.62.178/jptv2/get.php?id=4SlJSS46Vw5igmOdvfKMww==
 #EXTINF:-1 group-title="Nippon TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV 171  
 https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="Nippon TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV 171  
-https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="Nippon TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4SlJSS46Vw5igmOdvfKMww==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV JP  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV VT  
 https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
 #EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV 171
 http://171.244.62.178/jptv2/get.php?id=p1cu_Z3QI6VV01VJmw8vJQ==
+#EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV JP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 #EXTINF:-1 group-title="FUJI TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV  
 https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="FUJI TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV 171
 http://171.244.62.178/jptv2/get.php?id=uAJJq7DD6hKyPLoaMOBSUA==
+#EXTINF:-1 group-title="FUJI TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV FUJI
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI 68
 https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI VTt
@@ -42,7 +45,7 @@ http://171.244.62.178/jptv2/get.php?id=aNwnFAidrAjzqK5Wo0KvWw==
 http://171.244.62.178/jptv2/get.php?id=2eX5WUIdzetyhgy8L8plEQ==
 #EXTINF:-1 group-title="TV TOKYO" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO VT
 https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="TV TOKYO" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO V68
+#EXTINF:-1 group-title="TV TOKYO" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/2eX5WUIdzetyhgy8L8plEQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO JP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9-SZo2YQISIfL52o5p6Wtg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOKYO MX 1  
 https://code.vthanhtivi.pw/getlink/jptv/9-SZo2YQISIfL52o5p6Wtg==/playlist.m3u8
