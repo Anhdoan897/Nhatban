@@ -679,8 +679,8 @@ http://113.160.13.153:250/hls/relay/OV1YoFi/index.m3u8
 http://170.178.177.122:9083/live/LV1PLUS-lv1/27/Ae/27AeWzZ2EC2NvCE24buVIA==/live.livesegments.M3U8?sc_tk=8ycziL1TCRkS%2BezpaNtCheGuYb2g2CW%2Br6iOdcXNhzEkH8AbCRNEKzmyCBF7%2FQB8Ybo9Lh%2BtwE759MNF1u4w2TJz66xTwRNjvf2nWiNQLzY%3D&filekey=p2jSWOT4r2DJ70upvD1WxpRKvOhOZ1Ni-27Ex9b361Q%3D
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png", ESPN OK
 https://7pal.short.gy/espnus
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png", ESPN 
-http://38.96.178.201:80/live/ESPNHD/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png", ESPN US
+http://203.162.235.4/streams/media/service01_1280x720/index.m3u8
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png", ESPN 
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png", ESPN 
