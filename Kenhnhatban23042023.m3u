@@ -326,8 +326,8 @@ https://code.vthanhtivi.pw/getlink/jptv/9WvIBSpypx2Lr8C2qE5yag==/playlist.m3u8
 http://171.244.62.178/jptv2/get.php?id=9WvIBSpypx2Lr8C2qE5yag==
 #EXTINF:-1 group-title="Golf Network HD" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9WvIBSpypx2Lr8C2qE5yag==.jpg?type=live&thumbnail=thumbnail_small.jpg", Golf Network HD A2
 http://171.244.62.178/jptv2/get.php?id=9WvIBSpypx2Lr8C2qE5yag==
-#EXTINF:-1 group-title="Golf Network HD" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9WvIBSpypx2Lr8C2qE5yag==.jpg?type=live&thumbnail=thumbnail_small.jpg", Golf Network HD VDO
-http://vdo.itvlive.net:8080/GOLFNETWORK/index.m3u8?token=7783aebcd6bfb2ad75449f3a5a6aee07bf480a4d-72e949aa2053546364117b20488822b9-1702704062-1702660862&remote=no_check_ip
+#EXTINF:-1 group-title="Golf Network HD" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9WvIBSpypx2Lr8C2qE5yag==.jpg?type=live&thumbnail=thumbnail_small.jpg", Golf Network HD VT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/8qP22e52mcp47prxNsRFnw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TAKARAZUKA SKY STAGE  
 https://code.vthanhtivi.pw/getlink/jptv/8qP22e52mcp47prxNsRFnw==/playlist.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/8qP22e52mcp47prxNsRFnw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TAKARAZUKA SKY STAGE A2 
