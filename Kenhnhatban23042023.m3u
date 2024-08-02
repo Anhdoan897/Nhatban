@@ -144,8 +144,6 @@ http://171.244.62.178/jptv2/get.php?id=LmVq1wXCa4u6hpFsEFO79w==
 http://s22.newhometv.site/jptv1/get.php?id=y288Dc5aSplzqGsFpCvm-g==
 #EXTINF:-1 group-title="BS Japan" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/LmVq1wXCa4u6hpFsEFO79w==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Japan 68
 http://sv68.newhometv.site/streams/media/bs-japan_1280x720/index.m3u8
-#EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI 68
-http://sv68.newhometv.site/streams/media/bs-fuji_1280x720/index.m3u8
 #EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI 171
 http://171.244.62.178/jptv2/get.php?id=GpcPKY0rAfMZ9_mQkcePpA==
 #EXTINF:-1 group-title="BS FUJI" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/GpcPKY0rAfMZ9_mQkcePpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI VT
@@ -667,8 +665,6 @@ https://cdn-us-186.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://bs.tbs.co.jp/resources/images/ogp_logo.jpg?20200401" group-title="BS TBS", BS TBS
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/BSF2.png/revision/latest?cb=20210724071231" group-title="BS FUJI", BS FUJI
-http://113.160.3.98/get.php?id=1WFDcS4-Lv_4Qsnx8TQtgg==
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="TV TOKYO ",TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
 #EXTINF:-1 group-title="Golf Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4Gbtavigxq-djbhdMclSk-V5rPEp6VEnIQ&usqp=CAU", Golf Thai  
