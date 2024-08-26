@@ -679,8 +679,9 @@ http://203.162.235.4/streams/media/espn_1920x1080/index.m3u8
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="TrueFB2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2 TED
 http://203.162.235.16/streams/media/true-fb_1920x1080/index.m3u8
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.ibb.co/q1GPVFM/SCTV15-SSport-cc.webp", SCTV15
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 #EXTINF:-1 group-title="In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 #EXTINF:-1 group-title="True Sport 2" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fvi%2Fwiki%2FTrue_Sports_2&psig=AOvVaw3AFRpjF-KJdOgv4n6chf15&ust=1714721850105000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDvmei67oUDFQAAAAAdAAAAABAE",True Sport 2 - TEDCOM
