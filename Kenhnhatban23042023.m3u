@@ -122,7 +122,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV 171
 http://171.244.62.178/jptv2/get.php?id=OW-ptn455y7PFTNGgwS2mg==
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon VT 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV VT2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi VT 
