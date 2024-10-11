@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/VSlHpDfisYh8b4oRg1lPRg==.jpg?type=live&thumbnail=thumbnail_small.jpg", SBS UHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=VSlHpDfisYh8b4oRg1lPRg==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/Ar_XlkILKX_ENyXqHjzcXQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", KBS1 UHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=Ar_XlkILKX_ENyXqHjzcXQ==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/6kw8-GhpK9Ubi345PIdCwQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", KBS2 UHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=6kw8-GhpK9Ubi345PIdCwQ==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/ZLNUXIxdNH72ueGE4l-mnw==.jpg?type=live&thumbnail=thumbnail_small.jpg", MBC UHD
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=ZLNUXIxdNH72ueGE4l-mnw==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/UE8xD3_5pflsp3IX3wMk0A==.jpg?type=live&thumbnail=thumbnail_small.jpg", EBS1
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=UE8xD3_5pflsp3IX3wMk0A==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/8acnZWgAkSiiUuqjzMKRJg==.jpg?type=live&thumbnail=thumbnail_small.jpg", 연합뉴스
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=8acnZWgAkSiiUuqjzMKRJg==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/mw1Irj26Y6cW53ptVu5yKg==.jpg?type=live&thumbnail=thumbnail_small.jpg", YTN
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=mw1Irj26Y6cW53ptVu5yKg==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/fLBMI6EqfbSyUxwF7E2ZRg==.jpg?type=live&thumbnail=thumbnail_small.jpg", JTBC
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=fLBMI6EqfbSyUxwF7E2ZRg==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/2S-e67fWzOKcG8Ph2zarXw==.jpg?type=live&thumbnail=thumbnail_small.jpg", MBN
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=2S-e67fWzOKcG8Ph2zarXw==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/nkULywOQjdFgWFAYeG3Ryw==.jpg?type=live&thumbnail=thumbnail_small.jpg", CHA
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=nkULywOQjdFgWFAYeG3Ryw==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/CvvlAYkWsBAwjMF-ukxfww==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV조선
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=CvvlAYkWsBAwjMF-ukxfww==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/LZdyQpVcPn4Ntcz7io53Rg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TVN
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=LZdyQpVcPn4Ntcz7io53Rg==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/HtG7KAeg6_M_awwVd7YuQA==.jpg?type=live&thumbnail=thumbnail_small.jpg", OCN
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=HtG7KAeg6_M_awwVd7YuQA==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/9Tv8srJHMcRXfXyj8zUnBg==.jpg?type=live&thumbnail=thumbnail_small.jpg", OCN Movies
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=9Tv8srJHMcRXfXyj8zUnBg==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/9_IpgNMVxhyj0RyBjyUo0Q==.jpg?type=live&thumbnail=thumbnail_small.jpg", OCN Thrills
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=9_IpgNMVxhyj0RyBjyUo0Q==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/3FakHMK7j4EMrNZH_GFK4Q==.jpg?type=live&thumbnail=thumbnail_small.jpg", SCREEN
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=3FakHMK7j4EMrNZH_GFK4Q==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/AoatdYVntYJSodFNHOpAjQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", EBS2
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=AoatdYVntYJSodFNHOpAjQ==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/Al9NA-HWhlPnu6DV9s_KDg==.jpg?type=live&thumbnail=thumbnail_small.jpg", SKY SPorts
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=Al9NA-HWhlPnu6DV9s_KDg==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/U_Hv0JKQy3d3QP8eX4Sq6A==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOONIVERS
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=U_Hv0JKQy3d3QP8eX4Sq6A==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/RDF8QaTGYI_5GIlOK_LzuA==.jpg?type=live&thumbnail=thumbnail_small.jpg", KBS Kids
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=RDF8QaTGYI_5GIlOK_LzuA==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/jnVH5GsuY-M-lgS22SUHdg==.jpg?type=live&thumbnail=thumbnail_small.jpg", 재능TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=jnVH5GsuY-M-lgS22SUHdg==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/9GjwxyuKLmYMtgp4SvNazw==.jpg?type=live&thumbnail=thumbnail_small.jpg", SBS GOLF
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=9GjwxyuKLmYMtgp4SvNazw==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/mggg4toi3vRe9nxqqg2RDg==.jpg?type=live&thumbnail=thumbnail_small.jpg", JTBC GOLF
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=mggg4toi3vRe9nxqqg2RDg==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/f7hCBt40ba2wiECTML0LpA==.jpg?type=live&thumbnail=thumbnail_small.jpg", SBS SPORTS
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=f7hCBt40ba2wiECTML0LpA==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/MvdSIwaBsjlDKrQG1QwVGw==.jpg?type=live&thumbnail=thumbnail_small.jpg", KBSN SPORTS
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=MvdSIwaBsjlDKrQG1QwVGw==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/Ijn6YQ9_IXZFpgW636jZSw==.jpg?type=live&thumbnail=thumbnail_small.jpg", MBC SPORTS
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=Ijn6YQ9_IXZFpgW636jZSw==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/jdP6ovBTFy-W6zlc9GUiww==.jpg?type=live&thumbnail=thumbnail_small.jpg", JTBC GOLF&SPORT
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=jdP6ovBTFy-W6zlc9GUiww==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/sPrWARIU6TKfKqC8nP1Bgw==.jpg?type=live&thumbnail=thumbnail_small.jpg", SPOTV2
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=sPrWARIU6TKfKqC8nP1Bgw==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/qNGNH7vOuXPGoFx6GTMBFA==.jpg?type=live&thumbnail=thumbnail_small.jpg", SPOTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=qNGNH7vOuXPGoFx6GTMBFA==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/3XVJUSHxkYsKlw996mmS0g==.jpg?type=live&thumbnail=thumbnail_small.jpg", SPOTV ON
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=3XVJUSHxkYsKlw996mmS0g==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/1GPvrA_RChV73vfJ2WHTCA==.jpg?type=live&thumbnail=thumbnail_small.jpg", SPOTV ON2
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=1GPvrA_RChV73vfJ2WHTCA==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/jgigX5O6pmJ8R-ACwbRvPw==.jpg?type=live&thumbnail=thumbnail_small.jpg", CH NOW
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=jgigX5O6pmJ8R-ACwbRvPw==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/rXdzA4IJTX14x72yA-XPXA==.jpg?type=live&thumbnail=thumbnail_small.jpg", TVN Show
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=rXdzA4IJTX14x72yA-XPXA==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/B1Gx8a56JMNtzzt8PZT4EQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TVN STORY
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=B1Gx8a56JMNtzzt8PZT4EQ==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/5u23JczTZQtIPPrFMT_3AA==.jpg?type=live&thumbnail=thumbnail_small.jpg", INET
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=5u23JczTZQtIPPrFMT_3AA==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/gj4hUzAfKzDSgm6dIB7wFQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", MNET
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=gj4hUzAfKzDSgm6dIB7wFQ==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/Iupg5abaZIhqK1oVSLS0yA==.jpg?type=live&thumbnail=thumbnail_small.jpg", TVN SPORTS
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=Iupg5abaZIhqK1oVSLS0yA==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/gBtQfmzJBwwxFiRE-OhVXQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", HISTORY
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=gBtQfmzJBwwxFiRE-OhVXQ==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/gqeoYhvP3IwB51ZxPX6v0w==.jpg?type=live&thumbnail=thumbnail_small.jpg", FTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=gqeoYhvP3IwB51ZxPX6v0w==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/AF6bveJVBus6PVrFXDkLhg==.jpg?type=live&thumbnail=thumbnail_small.jpg", 바둑 TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=AF6bveJVBus6PVrFXDkLhg==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/Es0tcDzREXSUv4BuSHirLA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BILLIARDS TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=Es0tcDzREXSUv4BuSHirLA==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/tk7YeydGIi2itzaKSx9Opw==.jpg?type=live&thumbnail=thumbnail_small.jpg", KBS Joy
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=tk7YeydGIi2itzaKSx9Opw==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/Qfka7ExTZd_OcOeqBJqwIw==.jpg?type=live&thumbnail=thumbnail_small.jpg", JTBC2
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=Qfka7ExTZd_OcOeqBJqwIw==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/ejjLxK3JxOj21lOHfhWZNg==.jpg?type=live&thumbnail=thumbnail_small.jpg", SBS PLUS
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=ejjLxK3JxOj21lOHfhWZNg==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/96QTpE2todm127vOFziuTA==.jpg?type=live&thumbnail=thumbnail_small.jpg", KBS DRAMA
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=96QTpE2todm127vOFziuTA==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/tMrKP_rlroZirwqDOBny2A==.jpg?type=live&thumbnail=thumbnail_small.jpg", MBC DRAMA
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=tMrKP_rlroZirwqDOBny2A==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/SOIN3eYiXfSluLdr1egUHw==.jpg?type=live&thumbnail=thumbnail_small.jpg", CNTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=SOIN3eYiXfSluLdr1egUHw==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/-1-2lsczPSqHLbsaqjCD2Q==.jpg?type=live&thumbnail=thumbnail_small.jpg", CHING
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=-1-2lsczPSqHLbsaqjCD2Q==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/z0MSQyLXP6d7dl3aVzDuRQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", 매일경제TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=z0MSQyLXP6d7dl3aVzDuRQ==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/W4I2kzJOI-jc67-veJ6r-w==.jpg?type=live&thumbnail=thumbnail_small.jpg", Golf&PBA
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=W4I2kzJOI-jc67-veJ6r-w==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/ritzqYeSKNEo8IGokve9fQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", Discovery
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=ritzqYeSKNEo8IGokve9fQ==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/Hp9sqQgQWKxlRHUMacd8xg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BBC
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=Hp9sqQgQWKxlRHUMacd8xg==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/QROkas2VwxptRDWGXLbB5w==.jpg?type=live&thumbnail=thumbnail_small.jpg", CNN
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=QROkas2VwxptRDWGXLbB5w==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/0U2S_SyTAnGSvy1Qa-SteQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", CTS
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=0U2S_SyTAnGSvy1Qa-SteQ==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/55cSH-IrKG1JDnfeVSMLsQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BTN
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=55cSH-IrKG1JDnfeVSMLsQ==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/4JY2eenbUDCugUSUU41B9A==.jpg?type=live&thumbnail=thumbnail_small.jpg", PBC
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=4JY2eenbUDCugUSUU41B9A==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/ME1UwoqHeFv2Rs6K5Rx7fA==.jpg?type=live&thumbnail=thumbnail_small.jpg", SBS
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=ME1UwoqHeFv2Rs6K5Rx7fA==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/H55iP3gwEHfQQOYUblEpZA==.jpg?type=live&thumbnail=thumbnail_small.jpg", KBS1
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=H55iP3gwEHfQQOYUblEpZA==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/9OZfEs4ksgEABZx8WfqZnQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", KBS2
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=9OZfEs4ksgEABZx8WfqZnQ==
+#EXTINF:-1 group-title="🇯🇵| Hàn Quốc" tvg-logo="http://cdn1.kiwilivetv.com:9183/query/s/t4N-SurwyJiZnPP8i9uq4g==.jpg?type=live&thumbnail=thumbnail_small.jpg", MBC
+#EXTVLCOPT:http-user-agent=VLC/3.0.20 LibVLC/3.0.20
+#EXTVLCOPT:http-referrer=http://globalcntv.com/
+#EXTVLCOPT:network-caching=1000
+http://113.160.13.153/pangtv/get.php?id=t4N-SurwyJiZnPP8i9uq4g==
