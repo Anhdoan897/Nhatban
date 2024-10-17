@@ -106,6 +106,8 @@ http://s22.newhometv.site/jptv1/get.php?id=LqzQ_qk7P8LNOaghAThx4g==
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 #EXTINF:-1 group-title="NHK BS1" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9sqPFIgIL9jPHSVgfZvocw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS1 A1
 http://171.244.62.178/jptv2/get.php?id=9sqPFIgIL9jPHSVgfZvocw==
+#EXTINF:-1 group-title="NHK BS1" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9sqPFIgIL9jPHSVgfZvocw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS1 MONOTV
+http://113.160.13.153/jptv5/get.php?id=_W2OmqU-_ZmC5NEWSy1Ydw==
 #EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium 171
 http://171.244.62.178/jptv2/get.php?id=4D-J_Jybe7vuwDFEEopxPA==
 #EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS MOMOTV
@@ -606,18 +608,6 @@ https://cdn.th11.jpnettv.live/live/kanto_fuji_480/playlist.m3u8?secret=b59ab57c9
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMtFPHZ/jp-shop-channe-5122.jpg" group-title="NHẬT BẢN", SHOP CHANNEL JAPAN
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHK BS1",NHK BS1
-https://cdn-live-kr68.cloudrsst.com:444/live/nhkbs1_540/playlist.m3u8?secret=4229bdfb55951f89309109bc75c75023&time=1685172731
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHK BS1",NHK BS1 A
-https://cdnv148.cloudrsst.com:444/live/nhkbs1_540/playlist.m3u8?secret=b2dfad0c7924d45790aa93b09a6c7b00&time=1685172835
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHK BS1",NHK BS1 B
-https://jk-live-us76.supportnettv.com/live/nhkbs1_540/playlist.m3u8?secret=7f98d2cf814e94379062f3fe1783b6e4&time=1685172869
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHK BS1",NHK BS1 C
-https://cdn-us-154.cloudrsst.com/live/nhkbs1_540/playlist.m3u8?secret=0eb31222a6b73b0d8478ed16adb8bfcd&time=1685172900
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHK BS1",NHK BS1 D
-https://cdnul194.cloudrsst.com/live/nhkbs1_540/playlist.m3u8?secret=1d860bc37f756dbe4b14d53f6fd7e793&time=1685172937
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHK BS1",NHK BS1 E
-https://cdn-live-kr68.cloudrsst.com:444/live/nhkbs1_540/playlist.m3u8?secret=4483f8561c39a28e3b2ca695ec90ac62&time=1685172967
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMXCLsP/1200px-NHK-General-TV-logo-svg.png" group-title="NHK G",NHK G A
 https://cdn.th11.jpnettv.live/live/kanto_nhk_g_480/playlist.m3u8?secret=6423cdb75ab6526c194cfe80655d9c60&time=1684977259
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CWVVV89/1-200-GGP3023-W.png" group-title="NHẬT BẢN",NHK E
