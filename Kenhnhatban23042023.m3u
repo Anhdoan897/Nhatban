@@ -118,7 +118,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV VT2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi 68 
-https://cdn.itvlive.net/BsAsahi/video.m3u8
+http://sv68.tedcom.vn/streams/media/bs-asahi_1280x720/index.m3u8
 #EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi 171
 http://171.244.62.178/jptv2/get.php?id=BIvrrhxU6N9OlSgVT-HPrQ==
 #EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi Daklak
