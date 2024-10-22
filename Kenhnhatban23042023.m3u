@@ -36,6 +36,8 @@ http://171.244.62.178/jptv2/get.php?id=uAJJq7DD6hKyPLoaMOBSUA==
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI Daklak
 https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
+#EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI 68
+http://sv68.tedcom.vn/streams/media/asahi_1280x720/index.m3u8
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI 171
 http://171.244.62.178/jptv2/get.php?id=aNwnFAidrAjzqK5Wo0KvWw==
 #EXTINF:-1 group-title="TV Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/aNwnFAidrAjzqK5Wo0KvWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI 113
@@ -96,8 +98,8 @@ https://code.vthanhtivi.pw/getlink/jptv/hYnuGNMX-sWlu6qDdQe5bg==/playlist.m3u8
 http://s22.newhometv.site/jptv2/get.php?id=hYnuGNMX-sWlu6qDdQe5bg==
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/hYnuGNMX-sWlu6qDdQe5bg==.jpg?type=live&thumbnail=thumbnail_small.jpg", Yomiuri TV A1
 http://s22.newhometv.site/jptv1/get.php?id=LqzQ_qk7P8LNOaghAThx4g==
-#EXTINF:-1 group-title="NHK BS1" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9sqPFIgIL9jPHSVgfZvocw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS1 VT
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 group-title="NHK BS1" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9sqPFIgIL9jPHSVgfZvocw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS1 68
+http://sv68.tedcom.vn/streams/media/number_1280x720/index.m3u8
 #EXTINF:-1 group-title="NHK BS1" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9sqPFIgIL9jPHSVgfZvocw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS1 A1
 http://171.244.62.178/jptv2/get.php?id=9sqPFIgIL9jPHSVgfZvocw==
 #EXTINF:-1 group-title="NHK BS1" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/9sqPFIgIL9jPHSVgfZvocw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS1 MONOTV
@@ -123,8 +125,8 @@ http://sv68.tedcom.vn/streams/media/bs-asahi_1280x720/index.m3u8
 http://171.244.62.178/jptv2/get.php?id=BIvrrhxU6N9OlSgVT-HPrQ==
 #EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi Daklak
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="BS TBS" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS VT 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 group-title="BS TBS" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS 68 
+http://sv68.tedcom.vn/streams/media/tbs_960x544/index.m3u8
 #EXTINF:-1 group-title="BS TBS" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS A2
 http://171.244.62.178/jptv2/get.php?id=PsnqEBgAyeiCC2gXhv5ODQ==
 #EXTINF:-1 group-title="BS Japan" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/LmVq1wXCa4u6hpFsEFO79w==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Japan VT
@@ -574,8 +576,6 @@ http://s22.newhometv.site/jptv2/get.php?id=3aoWlvySJvrMYkUxn_QO-g==
 #EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/VgzG5PT/NHKW.png" group-title="NHẬT BẢN",NHK WORLD JAPAN
 #EXTVLCOPT:http-user-agent=KIPTV
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QNpg3xc/TV-Asahi.png" group-title="TV Asahi", TV Asahi
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A1
 https://cdn-us-154.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8?secret=f55e04bb2a4f2cd8dea084ee7fead8cb&time=1685010545
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A2
