@@ -107,11 +107,9 @@ http://sv68.tedcom.vn/streams/media/nhk-bs1_1024x576/index.m3u8
 #EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium 171
 http://171.244.62.178/jptv2/get.php?id=4D-J_Jybe7vuwDFEEopxPA==
 #EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS LT
-http://171.244.62.178/jptv4/get.php?id=r9hDpT5e8Jfvc0UEuVN-1A==
+http://113.160.13.153/jptv4/get.php?id=thRBrsQy5LgM0YhR7EJudg==
 #EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BSP 68
 http://sv68.tedcom.vn/streams/media/nhk-bsp_1280x720/index.m3u8
-#EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium Vthanh
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV 171
 http://171.244.62.178/jptv2/get.php?id=OW-ptn455y7PFTNGgwS2mg==
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon VT 
