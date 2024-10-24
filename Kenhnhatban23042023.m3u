@@ -106,8 +106,7 @@ http://171.244.62.178/jptv2/get.php?id=9sqPFIgIL9jPHSVgfZvocw==
 https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 #EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium 171
 http://171.244.62.178/jptv2/get.php?id=4D-J_Jybe7vuwDFEEopxPA==
-#EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS MOMOTV
-#EXTVLCOPT:http-user-agent=ExoPlayer
+#EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS LT
 http://171.244.62.178/jptv4/get.php?id=r9hDpT5e8Jfvc0UEuVN-1A==
 #EXTINF:-1 group-title="NHK BSP" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/4D-J_Jybe7vuwDFEEopxPA==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BSP 68
 http://sv68.tedcom.vn/streams/media/nhk-bsp_1280x720/index.m3u8
@@ -129,6 +128,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:2
 http://sv68.tedcom.vn/streams/media/tbs_960x544/index.m3u8
 #EXTINF:-1 group-title="BS TBS" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS A2
 http://171.244.62.178/jptv2/get.php?id=PsnqEBgAyeiCC2gXhv5ODQ==
+#EXTINF:-1 group-title="BS TBS" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/PsnqEBgAyeiCC2gXhv5ODQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS CDN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS Japan" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/LmVq1wXCa4u6hpFsEFO79w==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Japan VT
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS Japan" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/LmVq1wXCa4u6hpFsEFO79w==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Japan 171
@@ -601,7 +602,7 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDQKZGR/E4c594f6-3687-40d8-b8b7-af85a0378c97-removebg.png" group-title="NHẬT BẢN", WOW WOW Cinema
 https://cdn-us-186.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MhJQL0c/kisspng-logo-nhk-bs-premium-nhk-bs-2-nhk-bs1-bs-logo-www-galleryhip-com-the-hippest-pics-5bfac98cb7a.jpg" group-title="NHK BSP",NHK BSP
-https://cdn-us-154.cloudrsst.com/live/bspremium_540/playlist.m3u8?secret=3573ce8d0ade306de1cb7933cc968269&time=1685500198
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/zpi6mQ3.png" group-title="NHẬT BẢN",Animax
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="NHẬT BẢN",Disney Channel
