@@ -27,7 +27,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV 171
 http://171.244.62.178/jptv2/get.php?id=p1cu_Z3QI6VV01VJmw8vJQ==
 #EXTINF:-1 group-title="TBS TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/p1cu_Z3QI6VV01VJmw8vJQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV IT
-https://cdn.itvlive.net/TBS/video.m3u8
+https://tbs4.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 group-title="FUJI TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV  
 https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="FUJI TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/uAJJq7DD6hKyPLoaMOBSUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV 171
