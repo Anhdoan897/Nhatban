@@ -702,7 +702,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://stream1.freetv.fun/cnn-1.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="CNN" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN 4
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="CNN" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
+#EXTINF:-1 tvg-id="cnn" group-title="CNN" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN TC
+http://sv16.tedcom.vn/streams/media/cnn_1920x1080/index.m3u8
+#EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
 http://p1.cvtv.xyz:81/cna?token=live
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
 http://p1.cvtv.xyz:81/cgtn?token=live
