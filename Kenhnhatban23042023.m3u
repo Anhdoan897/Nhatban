@@ -694,9 +694,15 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 http://p1.cvtv.xyz:81/cnbc?token=live
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/1920px-Sky_News_logo.svg.png", Sky News
 https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
+#EXTINF:-1 tvg-id="cnn" group-title="CNN" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN 1
 http://p1.cvtv.xyz:81/cnn?token=live
-#EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
+#EXTINF:-1 tvg-id="cnn" group-title="CNN" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN 2
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="CNN" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN 3
+https://stream1.freetv.fun/cnn-1.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="CNN" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN 4
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="cna" group-title="CNN" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
 http://p1.cvtv.xyz:81/cna?token=live
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
 http://p1.cvtv.xyz:81/cgtn?token=live
