@@ -112,10 +112,6 @@ http://113.160.13.153/jptv4/get.php?id=thRBrsQy5LgM0YhR7EJudg==
 http://sv68.tedcom.vn/streams/media/nhk-bsp_1280x720/index.m3u8
 #EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV 171
 http://171.244.62.178/jptv2/get.php?id=OW-ptn455y7PFTNGgwS2mg==
-#EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon VT 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1 group-title="BS Nippon" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/OW-ptn455y7PFTNGgwS2mg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV VT2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi 68 
 http://sv68.tedcom.vn/streams/media/bs-asahi_1280x720/index.m3u8
 #EXTINF:-1 group-title="BS Asahi" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/BIvrrhxU6N9OlSgVT-HPrQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi 171
@@ -562,16 +558,6 @@ http://s22.newhometv.site/jptv2/get.php?id=3aoWlvySJvrMYkUxn_QO-g==
 #EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/VgzG5PT/NHKW.png" group-title="NHẬT BẢN",NHK WORLD JAPAN
 #EXTVLCOPT:http-user-agent=KIPTV
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A1
-https://cdn-us-154.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8?secret=f55e04bb2a4f2cd8dea084ee7fead8cb&time=1685010545
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A2
-https://cdn-us-186.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8?secret=b0cc34c2434a9b37eda40097681c428f&time=1685010614
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A3
-https://cdnv148.cloudrsst.com:444/live/kanto_nippon_480/playlist.m3u8?secret=fc81372ad4fa78b6b6eaf35ddb791604&time=1685011009
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A4
-https://cdn-us-186.cloudrsst.com/live/kanto_nippon_480/playlist.m3u8?secret=dbb3002f810c076d528ef381df9892b3&time=1685011102
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="Nippon TV", Nippon TV A5
-https://cdn-live-kr68.cloudrsst.com:444/live/kanto_nippon_480/playlist.m3u8?secret=27c8441662545afc65e8745e02f6878c&time=1685011178
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X
 https://code.vthanhtivi.pw/getlink/jptv2/107/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sjP7F3/1200px-Fuji-TV-logo-svg.png" group-title="FUJI TV", FUJI TV A1
