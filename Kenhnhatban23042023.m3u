@@ -691,3 +691,5 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-id="Phoenix Hong Kong" group-title="Phoenix Hong Kong" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true", Phoenix Hong Kong
 http://223.19.212.121:20131/bysid/259
+#EXTINF:-1 tvg-id="CCTV4" group-title="CCTV4" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true", CCTV4
+http://203.162.235.62/hls/relay/OHCu3N0/index.m3u8
