@@ -693,3 +693,5 @@ https://ythls.kekikakademi.org/youtube/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 http://223.19.212.121:20131/bysid/259
 #EXTINF:-1 tvg-id="CCTV4" group-title="CCTV4" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-china-central-television-cctv-4-cgtn-russian-cctv-1958966%2F&psig=AOvVaw0baRKmy6IAuzSgIxCRcCGG&ust=1737772547257000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjl366pjYsDFQAAAAAdAAAAABAE", CCTV4
 http://203.162.235.62/hls/relay/OHCu3N0/index.m3u8
+#EXTINF:-1 tvg-id="XING KONG" group-title="XING KONG" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-china-central-television-cctv-4-cgtn-russian-cctv-1958966%2F&psig=AOvVaw0baRKmy6IAuzSgIxCRcCGG&ust=1737772547257000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjl366pjYsDFQAAAAAdAAAAABAE", XING KONG
+http://203.210.157.4/http-progressive/346
