@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="🇬🇧 ANH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
 http://str1.cvtv.xyz/SkyN?token=live
 #EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G JP
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+https://cdn.itvlive.net/NHKG/index.m3u8?token=140e405816b4576f7a11f5f35e3bf935feb096de-de99a6c462a1a279fe339ec3460c9e2e-1738396683-1738382283-npUn8f&remote=no_check_ip
 #EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G VT
 https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
 #EXTINF:-1 group-title="NHK G" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK G 171
