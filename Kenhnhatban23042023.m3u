@@ -613,11 +613,15 @@ https://s9.itvlive.net/KBS2/tracks-v1a1/mono.m3u8?token=mothaibabonnam
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png", ESPN OK
 https://7pal.short.gy/espnus
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png", ESPN US
-http://203.162.235.4/streams/media/service01_1280x720/index.m3u8
+http://vp-txpro.com:80/albanci-seru-i-pisaju-po-hrvatima-i-srbima/Bv73YkGjWG5A/52036
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png", ESPN News
-http://38.96.178.201:80/live/ESPNews/index.m3u8
+http://vp-txpro.com:80/albanci-seru-i-pisaju-po-hrvatima-i-srbima/Bv73YkGjWG5A/52038
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png", ESPN TEDCOM
 http://203.162.235.4/streams/media/espn_1920x1080/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png", ESPN 2
+http://vp-txpro.com:80/albanci-seru-i-pisaju-po-hrvatima-i-srbima/Bv73YkGjWG5A/52037
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png", ESPN U
+http://vp-txpro.com:80/albanci-seru-i-pisaju-po-hrvatima-i-srbima/Bv73YkGjWG5A/52039
 #EXTINF:-1 group-title="TrueFB2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="TrueFB2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2 TED
